@@ -1,0 +1,14 @@
+{
+  "name": "a01_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a01_Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUNAF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

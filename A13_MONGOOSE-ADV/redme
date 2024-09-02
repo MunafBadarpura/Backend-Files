@@ -1,0 +1,8 @@
+install connect-flash = npm i connect-flash
+make sure you set-up express-session
+connect connect-flash in app.use() function
+create flash in any route 
+run app.use in any diffrent route
+
+
+BEFORE SET-UP flash-message YOU SHULD SET-UP express-session
